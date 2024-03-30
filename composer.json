@@ -7,6 +7,7 @@
         "potter/buffer-interface": "dev-main"
     },
     "suggest": {
+        "potter/output-buffer-interfaces": "dev-main",
         "potter/output-buffer": "dev-main",
         "potter/buffer-interfaces": "dev-main",
         "potter/buffer": "dev-main",
