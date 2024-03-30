@@ -6,6 +6,13 @@
         "php": "^8.3",
         "potter/buffer-interface": "dev-main"
     },
+    "suggest": {
+        "potter/output-buffer": "dev-main",
+        "potter/buffer-interfaces": "dev-main",
+        "potter/buffer": "dev-main",
+        "potter/contracts": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
